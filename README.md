@@ -52,12 +52,12 @@ git checkout branchname
 
 ==============================
 
-Before you start local coding, get the latest from the remote git repo - 
+Before you start local coding, get the latest from remote git repo - 
 git pull origin main
+git pull origin main --allow-unrelated-histories
 
 What changed - 
 git status
-
 
 After you have made your changes and you want to commit, use these commands in order - 
 git add .
