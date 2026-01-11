@@ -5,3 +5,6 @@ This is Paarth's change, this should generate a merge conflict.
 This is Vivaan's change. This should generate a merge conflict.
 
 Making another change
+
+
+We are coders and we are doing some awesome coding here.
