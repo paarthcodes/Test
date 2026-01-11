@@ -3,3 +3,5 @@ This is Vivaan pushing a new file into the repo. We want to ensure Paarth is abl
 This is Paarth's change, this should generate a merge conflict.
 
 This is Vivaan's change. This should generate a merge conflict.
+
+Making another change
