@@ -12,3 +12,5 @@ I'm coding on line 9 and Paarth is also doing so because we have a lot of work t
 We are coders and we are doing some awesome coding here.
 
 We are still coding and making new lines because we still have a lot of work to do. This change is amazing!
+
+I'm still making changes and committing.
