@@ -5,3 +5,5 @@ This is Paarth's change, this should generate a merge conflict.
 This is Vivaan's change. This should generate a merge conflict.
 
 Making another change
+
+I'm coding on line 9 and Paarth is also doing so because we have a lot of work to do. Nitai Gaura Haribol!
