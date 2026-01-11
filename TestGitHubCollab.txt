@@ -6,9 +6,10 @@ This is Vivaan's change. This should generate a merge conflict.
 
 Making another change
 
-I'm coding on line 9 and Paarth is also doing so because we have a lot of work to do. Nitai Gaura Haribol!
-
 
 We are coders and we are doing some awesome coding here.
 
-We are still coding and making new lines because we still have a lot of work to do.
+We are making changes while bhaiya is making changes and pushing data, at some point we
+are going to check what change he pushed.
+
+made more changes
